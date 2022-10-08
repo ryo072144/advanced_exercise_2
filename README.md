@@ -1,16 +1,12 @@
-# advanced_exercise_2
+# Flutter基礎講座第一回練習問題
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 問1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+タイトル、著者名、出版日の三つの情報を持つBookモデルを作成してください。また、BookモデルにはtoJsonとfromJsonを実装してください。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 問2
+
+Firestoreのデータの読み書きをBookモデルを介して行うようにコードを書き換えてください。
